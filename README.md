@@ -1,4 +1,4 @@
-#  Приветствую тебя 👋  Я Денис  начинающий веб разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px">
+#  Приветствую 👋  Я Денис  начинающий веб разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px">
 
 
  
