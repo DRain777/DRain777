@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![network](https://github.com/DRain777/DRain777/blob/main/img/sercl.gif)
+![network](https://github.com/DRain777/DRain777/blob/main/img/sercl.gif) ### Hi there 👋
 
 
 
