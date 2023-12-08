@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![network]([https://github.com/DRain777/DRain777/blob/main/img/sercl.gif](https://github.com/DRain777/DRain777/blob/main/img/Neyroseti-960x540.png)) ### Hi there 👋
+![network]([https://github.com/DRain777/DRain777/blob/main/img/sercl.gif](https://github.com/DRain777/DRain777/blob/main/img/Neyroseti-960x540.png)
 
 
 
