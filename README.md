@@ -1,7 +1,7 @@
-### Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+### Привет 👋  Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">
 
 
-![network](https://github.com/DRain777/DRain777/blob/main/img/Neyroseti-960x540.png)
+
 
 
 
