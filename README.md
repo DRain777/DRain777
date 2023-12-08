@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+
+![network](https://github.com/DRain777/DRain777/blob/main/img/sercl.gif)
+
+
+
+
+
+
+
+
+
+
 <!--
 **DRain777/DRain777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
