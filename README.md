@@ -1,8 +1,8 @@
 
-# Привет 👋  Я начинающий веб разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px">
+                     # Привет 👋  Я начинающий веб разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px">
 
 
-
+ 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
