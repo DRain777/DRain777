@@ -1,7 +1,20 @@
+<<<<<<< HEAD
 ### 
 
 
 ![network](https://github.com/DRain777/DRain777/blob/main/img/sercl.gif)    ### Hi there 👋
+=======
+# Привет 👋  Я начинающий веб разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px">
+
+
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+
+
+>>>>>>> 34839bf7560ee56a630544442d843f0cbbfcac5e
 
 
 
